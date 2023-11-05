@@ -31,3 +31,7 @@
     font-weight: bold;
     color: blue;
 }
+
+.subhead, p{
+    font-family: Helvetica;
+}
